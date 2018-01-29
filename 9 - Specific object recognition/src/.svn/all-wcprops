@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise
+END
+bow_histogram.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise/bow_histogram.m
+END
+bow_recognition_nearest.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise/bow_recognition_nearest.m
+END
+computeMeanStd.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise/computeMeanStd.m
+END
+create_codebook.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise/create_codebook.m
+END
+bow_recognition_bayes.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise/bow_recognition_bayes.m
+END
+create_bow_histograms.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise/create_bow_histograms.m
+END
+findnn.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise/findnn.m
+END
+bow_evaluation.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise/bow_evaluation.m
+END
+descriptors_hog.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise/descriptors_hog.m
+END
+kmeans.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise/kmeans.m
+END
+visualize_codebook.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise/visualize_codebook.m
+END
+bow_recognition_multi.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise/bow_recognition_multi.m
+END
+grid_points.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/buc/!svn/ver/764/cv-marcluc/exercises/10_categorization/code_exercise/grid_points.m
+END
